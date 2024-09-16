@@ -39,6 +39,6 @@
 |test	        |測試	              |$3333
 
 //外部連結
-![LWCC](https://www.youtube.com/@LWCCTainan)
+[LWCC](https://www.youtube.com/@LWCCTainan)
 
 ![NKUST](nkust.png "NKUST")
